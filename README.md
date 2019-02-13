@@ -1,2 +1,2 @@
 # Notebook set 5
-In this notebook set, you will learn the foundational concepts associated with **Logistic Regression** as a statistical classification tool, and implement a model. 
+In this notebook, you will learn the foundational concepts associated with **Machine Learning**, and implement a model. We'll (mostly) go through this notebook together in class and lab.
